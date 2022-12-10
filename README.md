@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellosumitg&label=Profile%20views&color=0e75b6&style=flat" alt="hellosumitg" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning **Blockchain🔗, Typescript...**<br>👨‍💻 All of my projects are available at [https://portfolio-hellosumitg.vercel.app/](https://portfolio-hellosumitg.vercel.app/)<br>💬 Ask me about **React, Solidity...**<br>📫 How to reach me **hellosumitg@yahoo.com**<br>⚡ Fun fact **I think I am funny😅**
+🌱 I’m currently learning **Blockchain🔗, Typescript...**<br>👨‍💻 All of my projects are available at [Web3 Portfolio](https://web3-hellosumitg.vercel.app/)<br>💬 Ask me about **React, Solidity...**<br>📫 How to reach me **hellosumitg@yahoo.com**<br>⚡ Fun fact **I think I am funny😅**
 
 
 ## 🌐 Socials:
