@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sumit Gupta</h1>
-<h3 align="center">A passionate Blockchain Developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellosumitg&label=Profile%20views&color=0e75b6&style=flat" alt="hellosumitg" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning **Blockchain🔗, Typescript and revising CSS, JavaScript, React...**<br>👨‍💻 All of my projects are available at [Web3 Portfolio](https://web3-hellosumitg.vercel.app/)<br>💬 Ask me about **React, Solidity...**<br>📫 How to reach me **hellosumitg@yahoo.com**<br>⚡ Fun fact **I think I am funny😅**
+🌱 I’m constantly learning **DevOps and various tools...**<br>💬 Ask me about **DevOps and cloud stuffs...**<br>📫 How to reach me **hellosumitg@yahoo.com**<br>⚡ Fun fact **I think I am funny😅**
 
 
 ## 🌐 Socials:
